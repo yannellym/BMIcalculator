@@ -1,0 +1,17 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "my first calculator ",
+  "main": "calculator.js",
+  "scripts": {
+    "nodemon": "nodemon calculator.js",
+    "start": "node calculator.js"
+  },
+  "author": "yannelly",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
